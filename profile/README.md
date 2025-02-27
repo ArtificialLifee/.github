@@ -43,7 +43,7 @@ Artificial Lifee thrives on community support! You can help us by:
 ## 📩 Contact Us
 For collaborations, inquiries, or suggestions, feel free to reach out:
 - 📧 **Email:** contact@artificiallifee.org
-- 🌐 **Website:** [Artificial Lifee]([https://www.artificiallifee.org](https://srojasre.github.io/ArtificialLifee/models.html))
+- 🌐 **Website:** [Artificial Lifee]([https://www.artificiallifee.org](https://srojasre.github.io/ArtificialLifee/models.html])
 
 
 ---
